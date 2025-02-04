@@ -1,5 +1,6 @@
-# [English Dictionary](https://pathanin-kht.github.io/English-Dictionary/)
+# [English Dictionary v1.0.0](https://pathanin-kht.github.io/English-Dictionary/)
 
+## Overview
 This project is a simple web-based dictionary app that allows users to search for English words and view their meanings, phonetics, examples, and synonyms. The app uses the Free Dictionary API to fetch word details and display them in a clean and user-friendly interface.
 
 ## Features
